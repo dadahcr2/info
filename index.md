@@ -47,6 +47,7 @@ Timed first 2 km of adventure tracks
 When in doubt
 ![Rally] ![Wi]	![AB]	![Fuel]  
 and remove hood at start  
+
 [ ^ ](#top)    
 {: style="text-align: right;"}
 **Previous public event tracks** 
@@ -86,7 +87,8 @@ and remove hood at start
 - **Time-Attack from Outer Space (Timed):** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops, Maze in the Moon, Coins in the Moon, Moon Shine, Man in the Moon, Moon Maze, Fly me to the Moon, Flipping Moon, Moonlight Sonata
 - **Hill-arious (Uphill):** 1-5
 - [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)  
-- 
+
+
 [ ^ ](#top)    
 {: style="text-align: right;"}  
 ### Public Event Setups

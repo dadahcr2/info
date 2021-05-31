@@ -11,7 +11,7 @@
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
-[\^](#top)  
+[^](#top)  
 {: style="text-align: right;"}
 
 ### Public Event: Moons of Mischief (Moon Stunts)

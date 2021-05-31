@@ -20,6 +20,8 @@
 
 ![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
 
@@ -43,7 +45,7 @@ Timed first 2 km of adventure tracks
 
 When in doubt
 ![Rally] ![Wi]	![AB]	![Fuel]  
-and remove hood at start
+and remove hood at start  
 [ ^ ](#top)    
 {: style="text-align: right;"}
 **Previous public event tracks** 
@@ -82,8 +84,10 @@ and remove hood at start
 - **Hill Climber Wars (Timed):** The Quarry, Factory Settings, Let it Snow, Bridges & Stones, Fury Road, Bat Country, Bill's Landing, Smooth Curves, The Dip, Heat Club, No Skidding, Bottom Gear
 - **Time-Attack from Outer Space (Timed):** Moon Jumps, Lunar Base, Rocket Jump, Over the Base, Depths of the Moon, Antenna Field, Tunnel Route, Two Passages, Moon Loops, Maze in the Moon, Coins in the Moon, Moon Shine, Man in the Moon, Moon Maze, Fly me to the Moon, Flipping Moon, Moonlight Sonata
 - **Hill-arious (Uphill):** 1-5
-- [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)
-
+- [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)  
+- 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Public Event Setups
 
 Event | Suggested Vehicle and Parts
@@ -102,6 +106,8 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | Buggy Wings Wheelieboost Coinboost
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Game Update: Leagues
 
 ![](https://media.discordapp.net/attachments/477025765100093440/836942746483687474/Leagues-update-now-fb.jpg?width=396&height=495)
@@ -138,9 +144,13 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 🇶 ***Do the team events themselves change?***  
 🇦 No. At this stage, team events remain as they always were (But you never know what the future may hold)  
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Team Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ##  Wikis & general tutorials
 - **[Official wiki](http://wiki.hcr2.info)**
 - **[Original reddit wiki](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2)**
@@ -149,6 +159,8 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 
 #### [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 
 **Videos**
 #### [Linus jumpshock tutorial](https://youtu.be/GzSkfF3lwX0)
@@ -160,15 +172,27 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 #### [Moonlander coin trick tutorial](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 [![Moonlander coin trick tutorial](http://img.youtube.com/vi/ATDNgvF0XhQ/0.jpg)](http://www.youtube.com/watch?v=ATDNgvF0XhQ)
 #### [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
-[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)
+[![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)  
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ## Vehicles
 ### Parts required & costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 **HCR2 Parts Costs**  
 {: style="text-align: center;"}
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Parts suggestions
 
 Vehicle | Parts
@@ -195,6 +219,9 @@ Hot Rod | LandingBoost CoinBoost FuelBoost / Magnet LandingBoost CoinBoost / Fum
 Superbike | Wings Afterburner CoinBoost / OverchargedTurbo Afterburner Wings / OverchargedTurbo Afterburner CoinBoost
 Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo CoinBoost / Wings OverchargedTurbo Afterburner
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 
 ### Least used parts
 These are parts are very rarely needed. I would not suggest scrapping them as you never know what the future may hold.  Nevertheless, no rush to pay for upgrades.
@@ -224,6 +251,9 @@ Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
+
 ## Adventures
 ![](https://media.discordapp.net/attachments/833681748688633877/835658597542133795/image4.png?width=496&height=496)
 ### Best map setups
@@ -248,10 +278,14 @@ Forest Trials | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost Jum
 Intense City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks
 Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Best distance parts by vehicle
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 **Forest adventure 10k vehicle parts**
 10K setups as follows:
 
@@ -283,6 +317,8 @@ Moonlander | Magnet WheelieBoost CoinBoost
 Where DF=DownForce, S=Suspension, SW=SkiWax
 (_Source: [PR]linus 10k runs_: https://youtu.be/0hLcQWIaLSg)
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Forest adventure obstacles
 ![Forest walk-through](https://media.discordapp.net/attachments/617353655468687390/733422128929439774/image0.png?width=557&height=992)
 ![](https://media.discordapp.net/attachments/617353655468687390/733422129181098055/image1.png?width=557&height=992)
@@ -294,6 +330,8 @@ Distance | Obstacle
 23 600 | Moat
 25 600 | Moat
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Desert valley obstacles
 
 Distance | Obstacle
@@ -325,6 +363,8 @@ Distance | Obstacle
 20510 | Single-rope swing
 22650 | Easy to miss gas tank
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ## Cups
 ### Two and four track cups
 I can remember the single track cups but not the others so I put together lists of the two and four track cups:
@@ -339,6 +379,8 @@ Dirty Rally
 Spring City  
 Sunday Champ  
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Tracks by map type and distance
 This may be helpful in identifying event tracks  
 
@@ -360,6 +402,8 @@ Map Type | Tracks
 
 Note: Distances are within 1m or so
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ### Season Bonus Chest
 **Requires premium pass**
 
@@ -371,6 +415,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ## Daily checklist
 
 - [ ] **Every 4 hours**: Two free team tickets 
@@ -400,6 +446,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 - [ ] Have a cup chest timing down
 - [ ] Scrap any excess parts
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ## 10 Commandments of HCR2
 1. **Don’t cheat or go against FS rules**
 2. **Only use gems for weekly public events / cups chests**
@@ -412,6 +460,9 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 9. **Only use gems at the shop to buy a part you don’t have**
 10. **Always buy the 50k coin scrap in the shop (if available)**
 
+[ ^ ](#top)    
+{: style="text-align: right;"}  
+
 ***
 
 ## Tournaments
@@ -420,6 +471,9 @@ I highly recommend these:
 - Friendly Wars: <http://fw.hcr2.info>
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 ## Team philosophy
 We are an open team, so no password.  If there is an spot available and the below resonates with you, you are very welcome to join.
 
@@ -434,6 +488,9 @@ We are an open team, so no password.  If there is an spot available and the belo
 5. **Eat plenty fiber!!** 😀 
 
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
+
+[ ^ ](#top)    
+{: style="text-align: right;"}  
 
 [Ka]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
 {: height="20px" width="20px"} 

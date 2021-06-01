@@ -11,7 +11,7 @@
 
 ![](https://cdn.discordapp.com/attachments/750874271022317678/847832333426884610/7C673FD6-8DBD-43C5-AAD9-A587E374F5DF.png)  
 
-[ ^ ](#top)  
+[🔝](#top)  
 {: style="text-align: right;"}
 
 ### Public Event: Moons of Mischief (Moon Stunts)
@@ -20,7 +20,7 @@
 
 ![Recommended: ![buggy] ![Ma] ![AC] ![WT]](https://cdn.discordapp.com/attachments/695743667087998996/848728745762357278/image0.png)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Public Event: The Fast and the Last (2km)
 ![](https://pbs.twimg.com/media/E2Tl0rVWEAAjpoa.jpg:small)
@@ -47,7 +47,7 @@ When in doubt
 ![Rally] ![Wi]	![AB]	![Fuel]  
 and remove hood at start  
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}
 **Previous public event tracks** 
 - 20210519 **Momentous Momentum (timed)** Trial of Balance, Whipclash, Visions of Victory, Captain's Log, The Big Dunes, Four-Wheel Park, Flipway, Hot Tarmac, No Step on Snek, Like a Hawk, Twisted Trees
@@ -88,7 +88,7 @@ and remove hood at start
 - [Old events - from 2019](https://www.reddit.com/r/HillClimbRacing/wiki/hcr2/eventtips#wiki_event_tips_.28hcr2.29)  
 
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Public Event Setups
 
@@ -108,7 +108,7 @@ Nian Chase |  Rally WinterTires Wings CoinBoost
  Uphill Climb | RacingTruck Wings FumeBoost WheelieBoost
 Wheelie  | Buggy Wings Wheelieboost Coinboost
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Game Update: Leagues
 
@@ -146,12 +146,12 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 🇶 ***Do the team events themselves change?***  
 🇦 No. At this stage, team events remain as they always were (But you never know what the future may hold)  
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Team Season Rewards  
 ![](https://cdn.discordapp.com/attachments/617353655468687390/847676629667938304/image0.png)  
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ##  Wikis & general tutorials
 - **[Official wiki](http://wiki.hcr2.info)**
@@ -161,7 +161,7 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 
 #### [Game Manual](https://drive.google.com/file/d/1GJqkqqvUuArcJe7balZAtpPQcO0me3d1/view) 
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 
 **Videos**
@@ -176,24 +176,24 @@ Canyon Champions, Division 1, Division 2, ... Division 7
 #### [How to remove part of vehicles](https://youtu.be/tXbQgs6c_fI)
 [![](http://img.youtube.com/vi/tXbQgs6c_fI/0.jpg)](http://www.youtube.com/watch?v=tXbQgs6c_fI)  
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ## Vehicles
 ### Parts required & costs  
 ![Parts upgrade reference chart](https://media.discordapp.net/attachments/617353655468687390/743407975623950346/image0.jpg)  
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 **HCR2 Parts Costs**  
 {: style="text-align: center;"}
 ![Part costs](https://media.discordapp.net/attachments/617353655468687390/743407893931622400/image0.jpg?width=402&height=744)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Fuel duration
 ![Fuel](https://media.discordapp.net/attachments/617353655468687390/777544549416697876/image0.png?width=533&height=744)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Parts suggestions
 
@@ -222,7 +222,7 @@ Superbike | Wings Afterburner CoinBoost / OverchargedTurbo Afterburner Wings / O
 Supercar | StartBoost OverchargedTurbo Afterburner / Wings OverchargedTurbo CoinBoost / Wings OverchargedTurbo Afterburner
 Moonlander | StartBoost FlipBoost Magnet / Magnet WheelieBoost CoinBoost 
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 
 ### Least used parts
@@ -253,7 +253,7 @@ Superbike | -
 Supercar | AirControl
 Moonlander | LandingBoost
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 
 ## Adventures
@@ -280,13 +280,13 @@ Forest Trials | [Rally](http://vehicles.hcr2.info/#rally) Wings LandingBoost Jum
 Intense City | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires JumpShocks
 Raging Winter | [Rally](http://vehicles.hcr2.info/#rally) Wings WinterTires CoinBoost
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Best distance parts by vehicle
 
 ![](https://cdn.discordapp.com/attachments/617353655468687390/831797400933761024/image0.png)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 **Forest adventure 10k vehicle parts**
 10K setups as follows:
@@ -319,7 +319,7 @@ Moonlander | Magnet WheelieBoost CoinBoost
 Where DF=DownForce, S=Suspension, SW=SkiWax
 (_Source: [PR]linus 10k runs_: https://youtu.be/0hLcQWIaLSg)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Forest adventure obstacles
 ![Forest walk-through](https://media.discordapp.net/attachments/617353655468687390/733422128929439774/image0.png?width=557&height=992)
@@ -332,7 +332,7 @@ Distance | Obstacle
 23 600 | Moat
 25 600 | Moat
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Desert valley obstacles
 
@@ -365,7 +365,7 @@ Distance | Obstacle
 20510 | Single-rope swing
 22650 | Easy to miss gas tank
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ## Cups
 ### Two and four track cups
@@ -381,7 +381,7 @@ Dirty Rally
 Spring City  
 Sunday Champ  
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Tracks by map type and distance
 This may be helpful in identifying event tracks  
@@ -404,7 +404,7 @@ Map Type | Tracks
 
 Note: Distances are within 1m or so
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ### Season Bonus Chest
 **Requires premium pass**
@@ -417,7 +417,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ## Daily checklist
 
@@ -448,7 +448,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 - [ ] Have a cup chest timing down
 - [ ] Scrap any excess parts
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ## 10 Commandments of HCR2
 1. **Don’t cheat or go against FS rules**
@@ -462,7 +462,7 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 9. **Only use gems at the shop to buy a part you don’t have**
 10. **Always buy the 50k coin scrap in the shop (if available)**
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 
 ***
@@ -474,7 +474,7 @@ I highly recommend these:
 
 ![](https://media.discordapp.net/attachments/833681748688633877/835658599274905620/image9.jpg?width=791&height=991)
 
-[ ^ ](#top)    
+[🔝](#top)    
 {: style="text-align: right;"}  
 ## Team philosophy
 We are an open team, so no password.  If there is an spot available and the below resonates with you, you are very welcome to join.
@@ -491,8 +491,8 @@ We are an open team, so no password.  If there is an spot available and the belo
 
 	![](https://cdn.discordapp.com/attachments/616461538978693141/739209195382898837/image0.jpg)
 
-[ ^ ](#top)    
-{: style="text-align: right;"}  
+[🔝](#top)    
+{: style="text-align: center;"}  
 
 [Ka]: https://pngimg.com/uploads/kangaroo/kangaroo_PNG21.png 
 {: height="20px" width="20px"} 

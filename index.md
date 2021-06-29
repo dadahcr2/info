@@ -1,3 +1,4 @@
+This site is no longer being updated. Please go to <http://hcr2.info>
 
 * TOC  
 {:toc}  
